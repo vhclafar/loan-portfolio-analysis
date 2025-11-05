@@ -37,7 +37,7 @@ jupyter notebook notebooks/loan_portfolio_analysis.ipynb
 - What is the overall quality of the data?
 
 ## Final conclusion:
--Provided in executive_summary.ipynb
+- Provided in executive_summary.ipynb
 
 ## 📄 Data
 This repo is set up for **public or synthetic data**. Put your excel(s) in `data/` and reference them in the notebook.
