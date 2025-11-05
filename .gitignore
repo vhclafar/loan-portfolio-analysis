@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore Python cache / compiled files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS Finder trash
+.DS_Store
